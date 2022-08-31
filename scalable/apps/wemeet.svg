@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg29"
+   sodipodi:docname="wemeet.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title208">Adwaita Icon Template</title>
+  <sodipodi:namedview
+     id="namedview31"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="1.84375"
+     inkscape:cx="63.728814"
+     inkscape:cy="64"
+     inkscape:window-width="1792"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg29" />
+  <defs
+     id="defs15">
+    <linearGradient
+       id="linear-pattern-0"
+       gradientUnits="userSpaceOnUse"
+       x1="48"
+       y1="44"
+       x2="464"
+       y2="44"
+       gradientTransform="matrix(0.25, 0, 0, 0.25, 0, 53)">
+      <stop
+         offset="0"
+         stop-color="rgb(10.196079%, 37.254903%, 70.588237%)"
+         stop-opacity="1"
+         id="stop2" />
+      <stop
+         offset="0.0416667"
+         stop-color="rgb(38.431373%, 62.7451%, 91.764706%)"
+         stop-opacity="1"
+         id="stop4" />
+      <stop
+         offset="0.0833333"
+         stop-color="rgb(10.196079%, 37.254903%, 70.588237%)"
+         stop-opacity="1"
+         id="stop6" />
+      <stop
+         offset="0.916667"
+         stop-color="rgb(10.196079%, 37.254903%, 70.588237%)"
+         stop-opacity="1"
+         id="stop8" />
+      <stop
+         offset="0.958333"
+         stop-color="rgb(38.431373%, 62.7451%, 91.764706%)"
+         stop-opacity="1"
+         id="stop10" />
+      <stop
+         offset="1"
+         stop-color="rgb(10.196079%, 37.254903%, 70.588237%)"
+         stop-opacity="1"
+         id="stop12" />
+    </linearGradient>
+  </defs>
+  <path
+     fill-rule="nonzero"
+     fill="url(#linear-pattern-0)"
+     d="M 20 32 L 108 32 C 112.417969 32 116 35.582031 116 40 L 116 108 C 116 112.417969 112.417969 116 108 116 L 20 116 C 15.582031 116 12 112.417969 12 108 L 12 40 C 12 35.582031 15.582031 32 20 32 Z M 20 32 "
+     id="path17" />
+  <path
+     fill-rule="nonzero"
+     fill="rgb(20.784314%, 51.764709%, 89.411765%)"
+     fill-opacity="1"
+     d="M 20 12 L 108 12 C 112.417969 12 116 15.582031 116 20 L 116 104 C 116 108.417969 112.417969 112 108 112 L 20 112 C 15.582031 112 12 108.417969 12 104 L 12 20 C 12 15.582031 15.582031 12 20 12 Z M 20 12 "
+     id="path19" />
+  <path
+     fill-rule="nonzero"
+     fill="rgb(10.980392%, 44.313726%, 84.705883%)"
+     fill-opacity="1"
+     d="M 50.265625 44.957031 L 36.460938 58.761719 L 27.480469 67.667969 C 26.664062 68.484375 26.105469 69.460938 25.789062 70.492188 L 25.488281 70.066406 L 25.488281 72.625 L 25.496094 72.621094 C 25.53125 74.316406 26.1875 76.003906 27.480469 77.304688 L 36.460938 86.285156 L 50.265625 72.515625 L 64.03125 86.324219 L 77.8125 72.570312 L 91.539062 86.296875 L 100.523438 77.316406 C 101.84375 75.992188 102.503906 74.257812 102.507812 72.523438 L 102.511719 72.523438 L 102.511719 70.085938 L 102.171875 70.390625 C 101.851562 69.40625 101.304688 68.476562 100.523438 67.691406 L 91.539062 58.789062 L 77.8125 44.957031 L 64.042969 58.734375 Z M 50.265625 44.957031 "
+     id="path21" />
+  <path
+     fill-rule="evenodd"
+     fill="rgb(96.078432%, 96.078432%, 96.078432%)"
+     fill-opacity="1"
+     d="M 36.460938 55.519531 L 27.480469 64.425781 C 24.824219 67.089844 24.824219 71.398438 27.480469 74.0625 L 36.460938 83.042969 L 50.265625 69.273438 L 59.015625 55.609375 L 50.265625 41.714844 Z M 36.460938 55.519531 "
+     id="path23" />
+  <path
+     fill-rule="evenodd"
+     fill="rgb(60.000002%, 75.686276%, 94.509804%)"
+     fill-opacity="1"
+     d="M 50.265625 69.273438 L 66.445312 70.457031 L 64.046875 55.496094 L 50.265625 41.714844 Z M 50.265625 69.273438 "
+     id="path25" />
+  <path
+     fill-rule="evenodd"
+     fill="rgb(96.078432%, 96.078432%, 96.078432%)"
+     fill-opacity="1"
+     d="M 50.265625 69.238281 L 64.03125 83.042969 L 77.8125 69.289062 L 91.539062 83.015625 L 100.523438 74.035156 C 103.175781 71.375 103.175781 67.070312 100.523438 64.414062 L 91.539062 55.507812 L 77.8125 41.675781 Z M 50.265625 69.238281 "
+     id="path27" />
+  <metadata
+     id="metadata206">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Adwaita Icon Template</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>mechtifs@github.com</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg70"
+   sodipodi:docname="010editor.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title249">Adwaita Icon Template</title>
+  <sodipodi:namedview
+     id="namedview72"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="1.84375"
+     inkscape:cx="63.728814"
+     inkscape:cy="64"
+     inkscape:window-width="1792"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg70" />
+  <defs
+     id="defs54">
+    <linearGradient
+       id="linear-pattern-0"
+       gradientUnits="userSpaceOnUse"
+       x1="48"
+       y1="44"
+       x2="464"
+       y2="44"
+       gradientTransform="matrix(0.25, 0, 0, 0.25, 0, 53)">
+      <stop
+         offset="0"
+         stop-color="rgb(96.078432%, 76.078433%, 6.666667%)"
+         stop-opacity="1"
+         id="stop2" />
+      <stop
+         offset="0.221826"
+         stop-color="rgb(89.803922%, 64.705884%, 3.921569%)"
+         stop-opacity="1"
+         id="stop4" />
+      <stop
+         offset="0.916667"
+         stop-color="rgb(77.64706%, 27.450982%, 0%)"
+         stop-opacity="1"
+         id="stop6" />
+      <stop
+         offset="0.958333"
+         stop-color="rgb(100%, 47.058824%, 0%)"
+         stop-opacity="1"
+         id="stop8" />
+      <stop
+         offset="1"
+         stop-color="rgb(77.64706%, 27.450982%, 0%)"
+         stop-opacity="1"
+         id="stop10" />
+    </linearGradient>
+    <linearGradient
+       id="linear-pattern-1"
+       gradientUnits="userSpaceOnUse"
+       x1="-98"
+       y1="234"
+       x2="6"
+       y2="234"
+       gradientTransform="matrix(1, 0, 0, 1, 110, -172)">
+      <stop
+         offset="0"
+         stop-color="rgb(96.470588%, 82.745099%, 17.647059%)"
+         stop-opacity="1"
+         id="stop13" />
+      <stop
+         offset="1"
+         stop-color="rgb(100%, 47.058824%, 0%)"
+         stop-opacity="1"
+         id="stop15" />
+    </linearGradient>
+    <linearGradient
+       id="linear-pattern-2"
+       gradientUnits="userSpaceOnUse"
+       x1="65.852364"
+       y1="256.800415"
+       x2="75.567207"
+       y2="256.800415"
+       gradientTransform="matrix(0.707107, -0.707107, 0.707107, 0.707107, -176.573638, -78.406971)">
+      <stop
+         offset="0"
+         stop-color="rgb(89.803922%, 64.705884%, 3.921569%)"
+         stop-opacity="1"
+         id="stop18" />
+      <stop
+         offset="0.4"
+         stop-color="rgb(96.470588%, 82.745099%, 17.647059%)"
+         stop-opacity="1"
+         id="stop20" />
+      <stop
+         offset="0.75"
+         stop-color="rgb(97.647059%, 94.117647%, 41.960785%)"
+         stop-opacity="1"
+         id="stop22" />
+      <stop
+         offset="1"
+         stop-color="rgb(96.470588%, 82.745099%, 17.647059%)"
+         stop-opacity="1"
+         id="stop24" />
+    </linearGradient>
+    <linearGradient
+       id="linear-pattern-3"
+       gradientUnits="userSpaceOnUse"
+       x1="67.386673"
+       y1="300"
+       x2="74.033371"
+       y2="300"
+       gradientTransform="matrix(0.707107, -0.707107, 0.707107, 0.707107, -176.573638, -78.406971)">
+      <stop
+         offset="0"
+         stop-color="rgb(0%, 0%, 0%)"
+         stop-opacity="1"
+         id="stop27" />
+      <stop
+         offset="0.23925"
+         stop-color="rgb(9.019608%, 9.019608%, 9.019608%)"
+         stop-opacity="1"
+         id="stop29" />
+      <stop
+         offset="0.747234"
+         stop-color="rgb(14.901961%, 14.901961%, 14.901961%)"
+         stop-opacity="1"
+         id="stop31" />
+      <stop
+         offset="1"
+         stop-color="rgb(0%, 0%, 0%)"
+         stop-opacity="1"
+         id="stop33" />
+    </linearGradient>
+    <linearGradient
+       id="linear-pattern-4"
+       gradientUnits="userSpaceOnUse"
+       x1="68.420105"
+       y1="306.589783"
+       x2="72.981087"
+       y2="306.589783"
+       gradientTransform="matrix(0.707107, -0.707107, 0.707107, 0.707107, -176.573635, -78.406979)">
+      <stop
+         offset="0"
+         stop-color="rgb(89.803922%, 64.705884%, 3.921569%)"
+         stop-opacity="1"
+         id="stop36" />
+      <stop
+         offset="0.4"
+         stop-color="rgb(96.470588%, 82.745099%, 17.647059%)"
+         stop-opacity="1"
+         id="stop38" />
+      <stop
+         offset="0.75"
+         stop-color="rgb(97.647059%, 94.117647%, 41.960785%)"
+         stop-opacity="1"
+         id="stop40" />
+      <stop
+         offset="1"
+         stop-color="rgb(96.470588%, 82.745099%, 17.647059%)"
+         stop-opacity="1"
+         id="stop42" />
+    </linearGradient>
+    <linearGradient
+       id="linear-pattern-5"
+       gradientUnits="userSpaceOnUse"
+       x1="67.367638"
+       y1="315.931183"
+       x2="74.033379"
+       y2="315.931183"
+       gradientTransform="matrix(0.707107, -0.707107, 0.707107, 0.707107, -176.573638, -78.406971)">
+      <stop
+         offset="0"
+         stop-color="rgb(89.803922%, 64.705884%, 3.921569%)"
+         stop-opacity="1"
+         id="stop45" />
+      <stop
+         offset="0.4"
+         stop-color="rgb(96.470588%, 82.745099%, 17.647059%)"
+         stop-opacity="1"
+         id="stop47" />
+      <stop
+         offset="0.75"
+         stop-color="rgb(97.647059%, 94.117647%, 41.960785%)"
+         stop-opacity="1"
+         id="stop49" />
+      <stop
+         offset="1"
+         stop-color="rgb(96.470588%, 82.745099%, 17.647059%)"
+         stop-opacity="1"
+         id="stop51" />
+    </linearGradient>
+  </defs>
+  <path
+     fill-rule="nonzero"
+     fill="url(#linear-pattern-0)"
+     d="M 20 32 C 15.566406 32 12 35.566406 12 40 L 12 66 C 12 93.613281 35.28125 116 64 116 L 108 116 C 112.433594 116 116 112.433594 116 108 L 116 66 C 115.996094 53.386719 111.035156 41.242188 102.109375 32 Z M 20 32 "
+     id="path56" />
+  <path
+     fill-rule="nonzero"
+     fill="url(#linear-pattern-1)"
+     d="M 20 12 C 15.566406 12 12 15.566406 12 20 L 12 62 C 12 89.613281 35.28125 112 64 112 L 108 112 C 112.433594 112 116 108.433594 116 104 L 116 62 C 116 34.386719 92.71875 12 64 12 Z M 20 12 "
+     id="path58" />
+  <path
+     fill-rule="nonzero"
+     fill="url(#linear-pattern-2)"
+     d="M 24.871094 29.910156 L 62.96875 68.007812 C 64.382812 69.417969 65.851562 70.773438 67.378906 72.066406 L 79.363281 82.234375 L 84.066406 77.53125 L 73.898438 65.546875 C 72.605469 64.019531 71.25 62.550781 69.839844 61.136719 L 31.742188 23.039062 Z M 24.871094 29.910156 "
+     id="path60" />
+  <path
+     fill-rule="nonzero"
+     fill="url(#linear-pattern-3)"
+     d="M 79.363281 82.234375 L 87.792969 89.175781 L 91.007812 85.960938 L 84.066406 77.53125 Z M 79.363281 82.234375 "
+     id="path62" />
+  <path
+     fill-rule="nonzero"
+     fill="url(#linear-pattern-4)"
+     d="M 87.78125 89.1875 L 91.007812 85.960938 L 92.640625 87.597656 L 89.414062 90.820312 Z M 87.78125 89.1875 "
+     id="path64" />
+  <path
+     fill-rule="nonzero"
+     fill="url(#linear-pattern-5)"
+     d="M 89.414062 90.820312 L 94.613281 97.507812 L 102.605469 100.785156 L 99.328125 92.796875 L 92.640625 87.597656 L 91.027344 89.207031 Z M 89.414062 90.820312 "
+     id="path66" />
+  <path
+     fill-rule="nonzero"
+     fill="rgb(0%, 0%, 0%)"
+     fill-opacity="1"
+     d="M 94.542969 92.726562 C 94.4375 92.832031 94.378906 92.976562 94.378906 93.128906 C 94.378906 93.277344 94.441406 93.421875 94.546875 93.53125 C 94.726562 93.707031 95 93.75 95.21875 93.628906 L 102.214844 100.625 L 102.574219 100.773438 L 102.59375 100.757812 L 102.445312 100.398438 L 95.449219 93.402344 C 95.566406 93.179688 95.527344 92.90625 95.351562 92.726562 C 95.242188 92.621094 95.097656 92.558594 94.945312 92.558594 C 94.796875 92.558594 94.652344 92.617188 94.542969 92.726562 Z M 94.542969 92.726562 "
+     id="path68" />
+  <metadata
+     id="metadata247">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Adwaita Icon Template</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>mechtifs@github.com</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

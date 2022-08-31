@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg43"
+   sodipodi:docname="burpsuite-pro.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title224">Adwaita Icon Template</title>
+  <sodipodi:namedview
+     id="namedview45"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="1.84375"
+     inkscape:cx="63.728814"
+     inkscape:cy="64"
+     inkscape:window-width="1792"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg43" />
+  <defs
+     id="defs15">
+    <linearGradient
+       id="linear-pattern-0"
+       gradientUnits="userSpaceOnUse"
+       x1="48"
+       y1="44"
+       x2="464"
+       y2="44"
+       gradientTransform="matrix(0.25, 0, 0, 0.25, 0, 53)">
+      <stop
+         offset="0"
+         stop-color="rgb(75.294119%, 74.901962%, 73.725492%)"
+         stop-opacity="1"
+         id="stop2" />
+      <stop
+         offset="0.0416667"
+         stop-color="rgb(100%, 100%, 100%)"
+         stop-opacity="1"
+         id="stop4" />
+      <stop
+         offset="0.0833333"
+         stop-color="rgb(75.294119%, 74.901962%, 73.725492%)"
+         stop-opacity="1"
+         id="stop6" />
+      <stop
+         offset="0.916667"
+         stop-color="rgb(75.294119%, 74.901962%, 73.725492%)"
+         stop-opacity="1"
+         id="stop8" />
+      <stop
+         offset="0.958333"
+         stop-color="rgb(100%, 100%, 100%)"
+         stop-opacity="1"
+         id="stop10" />
+      <stop
+         offset="1"
+         stop-color="rgb(75.294119%, 74.901962%, 73.725492%)"
+         stop-opacity="1"
+         id="stop12" />
+    </linearGradient>
+  </defs>
+  <path
+     fill-rule="nonzero"
+     fill="url(#linear-pattern-0)"
+     d="M 20 32 L 108 32 C 112.417969 32 116 35.582031 116 40 L 116 108 C 116 112.417969 112.417969 116 108 116 L 20 116 C 15.582031 116 12 112.417969 12 108 L 12 40 C 12 35.582031 15.582031 32 20 32 Z M 20 32 "
+     id="path17" />
+  <path
+     fill-rule="nonzero"
+     fill="rgb(96.470588%, 96.078432%, 95.686275%)"
+     fill-opacity="1"
+     d="M 20 12 L 108 12 C 112.417969 12 116 15.582031 116 20 L 116 104 C 116 108.417969 112.417969 112 108 112 L 20 112 C 15.582031 112 12 108.417969 12 104 L 12 20 C 12 15.582031 15.582031 12 20 12 Z M 20 12 "
+     id="path19" />
+  <path
+     fill-rule="nonzero"
+     fill="rgb(90.196079%, 38.039216%, 0%)"
+     fill-opacity="1"
+     d="M 67.65625 18.816406 L 67.65625 30.578125 L 50.871094 47.363281 L 67.65625 47.363281 L 67.65625 67.125 L 94.789062 67.125 L 67.65625 94.257812 L 67.65625 105.183594 L 105.699219 105.183594 C 107.507812 105.183594 108.96875 103.726562 108.96875 101.917969 L 108.96875 22.082031 C 108.96875 20.273438 107.507812 18.816406 105.699219 18.816406 Z M 67.65625 18.816406 "
+     id="path21" />
+  <path
+     fill-rule="nonzero"
+     fill="rgb(10.980392%, 44.313726%, 84.705883%)"
+     fill-opacity="1"
+     d="M 60.34375 18.816406 L 60.34375 27.546875 L 33.214844 54.675781 L 60.34375 54.675781 L 60.34375 74.441406 L 77.128906 74.441406 L 60.34375 91.230469 L 60.34375 105.183594 L 67.65625 105.183594 L 67.65625 94.257812 L 94.789062 67.125 L 67.65625 67.125 L 67.65625 47.363281 L 50.871094 47.363281 L 67.65625 30.578125 L 67.65625 18.816406 Z M 60.34375 18.816406 "
+     id="path23" />
+  <path
+     fill-rule="nonzero"
+     fill="rgb(14.117648%, 12.156863%, 19.215687%)"
+     fill-opacity="1"
+     d="M 22.304688 18.816406 C 20.492188 18.816406 19.035156 20.273438 19.035156 22.082031 L 19.035156 101.917969 C 19.035156 103.726562 20.492188 105.183594 22.304688 105.183594 L 60.34375 105.183594 L 60.34375 91.230469 L 77.128906 74.441406 L 60.34375 74.441406 L 60.34375 54.675781 L 33.214844 54.675781 L 60.34375 27.546875 L 60.34375 18.816406 Z M 22.304688 18.816406 "
+     id="path25" />
+  <path
+     fill-rule="nonzero"
+     fill="rgb(100%, 47.058824%, 0%)"
+     fill-opacity="1"
+     d="M 67.65625 22.816406 L 67.65625 30.578125 L 50.871094 47.363281 L 67.65625 47.363281 L 67.65625 67.125 L 94.789062 67.125 L 67.65625 94.257812 L 67.65625 105.183594 L 105.851562 105.183594 C 107.578125 105.183594 108.96875 103.792969 108.96875 102.066406 L 108.96875 25.933594 C 108.96875 24.207031 107.578125 22.816406 105.851562 22.816406 Z M 67.65625 22.816406 "
+     id="path27" />
+  <path
+     fill-rule="nonzero"
+     fill="rgb(23.921569%, 21.960784%, 27.450982%)"
+     fill-opacity="1"
+     d="M 60.34375 22.816406 L 22.15625 22.816406 C 20.425781 22.816406 19.035156 24.207031 19.035156 25.933594 L 19.035156 102.066406 C 19.035156 103.792969 20.425781 105.183594 22.15625 105.183594 L 60.34375 105.183594 L 60.34375 91.230469 L 77.128906 74.441406 L 60.34375 74.441406 L 60.34375 54.675781 L 33.214844 54.675781 L 60.34375 27.546875 Z M 60.34375 22.816406 "
+     id="path29" />
+  <path
+     fill-rule="nonzero"
+     fill="rgb(20.784314%, 51.764709%, 89.411765%)"
+     fill-opacity="1"
+     d="M 60.34375 22.816406 L 60.34375 27.546875 L 33.214844 54.675781 L 60.34375 54.675781 L 60.34375 74.441406 L 77.128906 74.441406 L 60.34375 91.230469 L 60.34375 105.183594 L 67.65625 105.183594 L 67.65625 94.257812 L 94.789062 67.125 L 67.65625 67.125 L 67.65625 47.363281 L 50.871094 47.363281 L 67.65625 30.578125 L 67.65625 22.816406 Z M 60.34375 22.816406 "
+     id="path31" />
+  <path
+     fill-rule="nonzero"
+     fill="rgb(96.470588%, 96.078432%, 95.686275%)"
+     fill-opacity="1"
+     d="M 60.34375 18.816406 L 60.34375 27.546875 L 33.214844 54.675781 L 60.34375 54.675781 L 60.34375 74.441406 L 77.128906 74.441406 L 60.34375 91.230469 L 60.34375 105.183594 L 67.65625 105.183594 L 67.65625 94.257812 L 94.789062 67.125 L 67.65625 67.125 L 67.65625 47.363281 L 50.871094 47.363281 L 67.65625 30.578125 L 67.65625 18.816406 Z M 60.34375 18.816406 "
+     id="path33" />
+  <path
+     fill-rule="nonzero"
+     fill="rgb(14.117648%, 12.156863%, 19.215687%)"
+     fill-opacity="1"
+     d="M 60.34375 74.441406 L 60.34375 78.441406 L 73.128906 78.441406 L 77.128906 74.441406 Z M 60.34375 74.441406 "
+     id="path35" />
+  <path
+     fill-rule="nonzero"
+     fill="rgb(90.196079%, 38.039216%, 0%)"
+     fill-opacity="1"
+     d="M 94.789062 67.125 L 67.65625 94.257812 L 67.65625 98.257812 L 94.789062 71.125 Z M 94.789062 67.125 "
+     id="path37" />
+  <path
+     fill-rule="nonzero"
+     fill="rgb(14.117648%, 12.156863%, 19.215687%)"
+     fill-opacity="1"
+     d="M 33.214844 54.675781 L 33.214844 58.675781 L 60.34375 58.675781 L 60.34375 54.675781 Z M 33.214844 54.675781 "
+     id="path39" />
+  <path
+     fill-rule="nonzero"
+     fill="rgb(90.196079%, 38.039216%, 0%)"
+     fill-opacity="1"
+     d="M 67.65625 30.578125 L 50.871094 47.363281 L 54.871094 47.363281 L 67.65625 34.578125 Z M 67.65625 30.578125 "
+     id="path41" />
+  <metadata
+     id="metadata222">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Adwaita Icon Template</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>mechtifs@github.com</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
