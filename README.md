@@ -19,6 +19,7 @@ This is an extension pack for GNOME's Adwaita icon theme based on [GNOME Human I
 * NetEase Cloud Music Gtk
 * OBS Studio
 * Oracle VM VirtualBox (OSS)
+* Quartus Prime Lite
 * Steam
 * Sublime Text
 * TeamViewer
@@ -26,7 +27,7 @@ This is an extension pack for GNOME's Adwaita icon theme based on [GNOME Human I
 * Ventoy
 * Visual Studio Code
 * WeChat
-* WeMeet
+* WemeetApp
 * Wireshark
 
 ## Planned
