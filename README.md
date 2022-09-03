@@ -12,6 +12,7 @@ This is an extension pack for GNOME's Adwaita icon theme based on [GNOME Human I
 * 010 Editor
 * Arduino IDE
 * Burp Suite Professional
+* Genymotion
 * GParted
 * Icalingua
 * Inkscape
